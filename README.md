@@ -12,7 +12,7 @@ node -v
 ```
 clone the project
 ```
-git clone URL
+git clone https://github.com/KChegwin/psn
 ```
 navigate to the project folder
 ```
